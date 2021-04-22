@@ -1,2 +1,2 @@
 # Ban-Katalog
-Ban Katalog von Delta NEtwork
+Ban Katalog von Delta Network
