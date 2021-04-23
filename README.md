@@ -1,5 +1,7 @@
 # Ban-Katalog
-Ban Katalog von Delta Network
+Ban Katalog von Delta Network´
+
+(Noch nicht fertig)
 
 Ban-Gründe / Report-Gründe / Ban-Längen
 ----------------------------------------------------------
