@@ -13,7 +13,7 @@ Teammitglieder haben Weisungsrecht, Nutzer haben sich daran zu halten!
 Bans sind nicht anfechtbar!
 
 
-`
+
 Folgende Gründe / Längen gibt es:
 
 Schlechtreden von Projekten/vom Netzwerk
@@ -54,4 +54,4 @@ Schlechtes Verhalten, Unangebrachte Reaktionen
 ➥ Sehr schwerwiegend: Bis zu einem Jahr
 
 ----------------------------------------------------------
-`
+
