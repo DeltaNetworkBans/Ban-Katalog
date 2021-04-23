@@ -3,7 +3,7 @@ Ban Katalog von Delta Network´
 
 (Noch nicht fertig)
 
-Ban-Gründe / Report-Gründe / Ban-Längen
+# Ban-Gründe / Report-Gründe / Ban-Längen
 ----------------------------------------------------------
 
 Nachfolgende Bans werden von den Teammitgliedern gegeben und können individuell angepasst werden.
@@ -18,7 +18,7 @@ Bans sind nicht anfechtbar!
 
 Folgende Gründe / Längen gibt es:
 
-Schlechtreden von Projekten/vom Netzwerk
+## Schlechtreden von Projekten/vom Netzwerk
 
 ➥ Leicht: 7 Tage
 
@@ -28,7 +28,7 @@ Schlechtreden von Projekten/vom Netzwerk
 
 ----------------------------------------------------------
 
-Toxisches Verhalten zu anderen Usern/Teammitgliedern
+## Toxisches Verhalten zu anderen Usern/Teammitgliedern
 Userbezogen, nicht leichtfertig einsetzbar!
 
 ➥ Leicht: 14 Tage
@@ -39,7 +39,7 @@ Userbezogen, nicht leichtfertig einsetzbar!
 
 ----------------------------------------------------------
 
-Rassismus
+## Rassismus
 
 ➥ Leicht: 30 Tage
 
@@ -49,7 +49,7 @@ Rassismus
 
 ----------------------------------------------------------
 
-Hacking
+## Hacking
 
 ➥ Leicht (Autoclicker etc): 30-60 Tage
 
@@ -59,7 +59,7 @@ Hacking
 
 ----------------------------------------------------------
 
-Bugabusen
+## Bugabusen
 
 ➥ Leicht: bis zu 7 Tagen
 
@@ -69,7 +69,7 @@ Bugabusen
 
 ----------------------------------------------------------
 
-Nerven von Teammitgliedern, Rauben von Zeit
+## Nerven von Teammitgliedern, Rauben von Zeit
 Individuell einsetzbar!
 
 ➥ Leicht: bis zu 7 Tagen
@@ -80,7 +80,7 @@ Individuell einsetzbar!
 
 ----------------------------------------------------------
 
-Schlechtes Verhalten, Unangebrachte Reaktionen
+## Schlechtes Verhalten, Unangebrachte Reaktionen
 
 ➥ Leicht: bis zu 14 Tagen
 
