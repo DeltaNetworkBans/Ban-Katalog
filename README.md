@@ -97,3 +97,18 @@ Individuell einsetzbar!
 
 ----------------------------------------------------------
 
+## Ungerechte Spielvorteile - Ausnutzen von Bugs etc
+> **Kategorie H**
+
+➥ Illegales Teaming (leicht): bis zu 14 Tagen 	**(H1)**
+
+➥ Illegales Teaming (Schwerwiegend, OBV): bis zu 30 Tagen 	**(H2)**
+
+➥ Bugusing* (leicht-Mittel): bis zu 14 Tagen 	**(H3)**
+
+➥ Bugusing (Schwer): bis zu 30 Tagen 	**(H4)**
+
+*Hierzu zählen auch Regellücken / Serverlücken!
+
+----------------------------------------------------------
+
