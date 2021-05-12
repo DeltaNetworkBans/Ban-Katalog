@@ -112,3 +112,22 @@ Individuell einsetzbar!
 
 ----------------------------------------------------------
 
+## Banumgehung / Accountsharing
+> **Kategorie I**
+
+➥ Banumgehung (1.): Verdoppelung der Strafe 	**(I1)**
+
+➥ Banumgehung (2.): Verdoppelung der Strafe (erneut) 	**(I2)**
+
+➥ Banumgehung (3. oder mehr): Permanenter Ban 	**(I3)**
+
+➥ Beihilfe zur Banumgehung (nachgewiesen): bis zu 30 Tagen 	**(I4)**
+
+➥ Accountsharing (Eigentlicher Eigentümer des Accounts): bis zu 30 Tagen **(I5)**
+
+➥ Accountsharing (Benutzer des weitergegebenen Accounts): bis zu 14 Tagen **(I6)**
+
+----------------------------------------------------------
+
+
+
