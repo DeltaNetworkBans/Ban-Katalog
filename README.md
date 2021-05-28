@@ -1,6 +1,18 @@
 # Ban-Katalog
 Ban Katalog von Delta Network
 
+## Allgemeine Regeln
+
+Banns werden nur mit passenden Beweisen verteilt. Gibt es keine Beweise, gibt es keinen Bann.
+
+Banns werden nur mit passenden Beweisen verteilt. Gibt es keine Beweise, gibt es keinen Bann.
+
+Die Banns werden manuell verteilt und in besonderen Fällen kann vom Katalog abgewichen werden.
+
+Dieser Katalog kann erweitert und verändert werden, bereits ausgeteilte Banns und noch offene Fälle werden dadurch eventuell angepasst/aktualisiert.
+
+Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
+
 # Ban-Gründe / Report-Gründe / Ban-Längen
 ----------------------------------------------------------
 
