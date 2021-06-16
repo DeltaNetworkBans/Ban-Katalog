@@ -158,7 +158,7 @@ Individuell einsetzbar!
 
 # Ban-Gründe / Report-Gründe / Ban-Längen
 ----------------------------------------------------------
-## Trucen / Crossteaming
+## Events
 > **Kategorie Events**
 ```
 ➥ Illegales Teaming (leicht): bis zu 3 Tagen 	(Events1)
@@ -185,7 +185,7 @@ Individuell einsetzbar!
 
 # Ban-Gründe / Report-Gründe / Ban-Längen
 ----------------------------------------------------------
-## Banumgehung / Accountsharing
+## Basewars
 > **Kategorie BW**
 ```
 ➥ Griefen von anderen Basen: bis zu 3 Tage 	(BW1)
