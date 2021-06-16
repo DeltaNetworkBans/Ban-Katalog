@@ -4,14 +4,13 @@
 
 ```
 Spieler die bei Cuuky gebannt sind, werden automatisch bei uns auch gebannt/nicht zugelassen!
-(Ausnahme - Chatverhalten)
+(Ausnahme - Chatverhalten) (Extras1)
 
 ```
 
 ```
-Spieler, die versuchen das Team unrechtmäßig Cuuky bannen zu lassen (unrechtmäßig = abgelehnter Ban), 
-werden in einer individuellen Höhe von Delta-Network ausgeschlossen!
-Banngrund: Snitch1
+Spieler, die persönliche Differenzen mit einem der Owner, Coowner oder Teamleader haben, dürfen mit dem Grund: (Extras2) für etwaige Zeit gebannt werden.
+Auch hier sind Entbannungsanträge möglich, um eine klärung mit der Person herbeizuführen!
 ```
 
 
