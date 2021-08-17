@@ -11,6 +11,8 @@ Dieser Katalog kann erweitert und verändert werden, bereits ausgeteilte Banns u
 
 Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
 
+In besonderen Fällen werden die Banns komplett aufgehoben
+
 # Ban-Gründe / Report-Gründe / Ban-Längen
 ----------------------------------------------------------
 
