@@ -151,6 +151,17 @@ Individuell einsetzbar!
 ➥ Falsches Ausgeben von anderen Personen, Identitätsdiebstahl: 6-12 Monate (J3)
 ```
 ----------------------------------------------------------
+
+## Anmelden + nichterscheinen ohne Abmeldung / Absuen von Anmeldechanneln
+> **Kategorie K**
+```
+➥ Anmelden und nichterscheinen ohne Abmeldung: bis zu 45 Tagen 	(K1)
+
+➥ Wiederholungstaten in Bezug auf (K1): Verdoppelung der Bannzeit von vorher	(K2)
+
+➥ Abusen von Anmeldechanneln: Bis zu 30 Tagen 	(K3)
+```
+----------------------------------------------------------
 ----------------------------------------------------------
 ----------------------------------------------------------
 
