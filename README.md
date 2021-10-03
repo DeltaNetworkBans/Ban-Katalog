@@ -162,6 +162,17 @@ Individuell einsetzbar!
 ➥ Abusen von Anmeldechanneln: Bis zu 30 Tagen 	(K3)
 ```
 ----------------------------------------------------------
+
+## Regelverstoß in Events/Varos (der eine Folge hatte das man aus dem Projekt gebannt wurde)
+> **Kategorie L**
+```
+➥ Leichter Verstoß: bis zu 30 Tage 	(L1)
+
+➥ Mittleren Verstoß: bis zu 60 Tage 	(L2)
+
+➥ Schweren Verstoß Verstoß: bis zu 120 Tage 	(L3)
+```
+----------------------------------------------------------
 ----------------------------------------------------------
 ----------------------------------------------------------
 
