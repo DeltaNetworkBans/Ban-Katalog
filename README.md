@@ -170,7 +170,7 @@ Individuell einsetzbar!
 
 ➥ Mittleren Verstoß: bis zu 60 Tage 	(L2)
 
-➥ Schweren Verstoß Verstoß: bis zu 120 Tage 	(L3)
+➥ Schweren Verstoß: bis zu 120 Tage 	(L3)
 ```
 ----------------------------------------------------------
 ----------------------------------------------------------
