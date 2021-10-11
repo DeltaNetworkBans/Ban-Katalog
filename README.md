@@ -155,7 +155,7 @@ Individuell einsetzbar!
 ## Anmelden + nichterscheinen ohne Abmeldung / Absuen von Anmeldechanneln
 > **Kategorie K**
 ```
-➥ Anmelden und nichterscheinen ohne Abmeldung: bis zu 45 Tagen 	(K1)
+➥ Anmelden und nichterscheinen ohne Abmeldung: bis zu 60 Tagen 	(K1)
 
 ➥ Wiederholungstaten in Bezug auf (K1): Verdoppelung der Bannzeit von vorher	(K2)
 
