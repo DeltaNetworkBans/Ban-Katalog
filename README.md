@@ -31,9 +31,9 @@ Folgende Gründe / Längen gibt es:
 ## Schlechtreden von Projekten/vom Netzwerk
 > **Kategorie A**
 ```
-➥ Leicht: 7 Tage (A1)
+➥ Leicht: 30 Tage (A1)
 
-➥ Schwer: bis zu 2 Monaten (A2)
+➥ Schwer: bis zu 4 Monaten (A2)
 
 ➥ Sehr schwerwiegend: Bis zu Lifetime (A3)
 ```
@@ -44,9 +44,9 @@ Userbezogen, nicht leichtfertig einsetzbar!
 
 > **Kategorie B**
 ```
-➥ Leicht: 14 Tage (B1)
+➥ Leicht: 30 Tage (B1)
 
-➥ Schwer: bis zu 2 Monaten (B2)
+➥ Schwer: bis zu 4 Monaten (B2)
 
 ➥ Sehr schwerwiegend: Bis zu Lifetime (B3)
 ```
@@ -55,7 +55,7 @@ Userbezogen, nicht leichtfertig einsetzbar!
 ## Rassismus
 > **Kategorie C**
 ```
-➥ Leicht: 30 Tage (C1)
+➥ Leicht: 60 Tage (C1)
 
 ➥ Schwer: bis zu 6 Monaten (C2)
 
@@ -66,7 +66,7 @@ Userbezogen, nicht leichtfertig einsetzbar!
 ## Hacking
 > **Kategorie D**
 ```
-➥ Leicht (Autoclicker etc): 30-60 Tage (D1)
+➥ Leicht (Autoclicker/XRAY etc): 30-60 Tage (D1)
 
 ➥ Schwer: bis zu 6 Monaten (D2)
 
@@ -77,9 +77,9 @@ Userbezogen, nicht leichtfertig einsetzbar!
 ## Bugabusen
 > **Kategorie E**
 ```
-➥ Leicht: bis zu 7 Tagen (E1)
+➥ Leicht: bis zu 30 Tagen (E1)
 
-➥ Schwer: bis zu 30 Tage (E2)
+➥ Schwer: bis zu 60 Tage (E2)
 
 ➥ Sehr schwerwiegend: Bis zu Lifetime (E3)
 ```
@@ -90,33 +90,33 @@ Individuell einsetzbar!
 
 > **Kategorie F**
 ```
-➥ Leicht: bis zu 7 Tagen (F1)
+➥ Leicht: bis zu 30 Tagen (F1)
 
-➥ Schwer: bis zu 14 Tagen (F2)
+➥ Schwer: bis zu 90 Tagen (F2)
 
-➥ Sehr schwerwiegend: Bis zu 2 Monaten (F3)
+➥ Sehr schwerwiegend: Bis zu 6 Monaten (F3)
 ```
 ----------------------------------------------------------
 
 ## Schlechtes Verhalten, Unangebrachte Reaktionen
 > **Kategorie G**
 ```
-➥ Leicht: bis zu 14 Tagen 	(G1)
+➥ Leicht: bis zu 30 Tagen 	(G1)
 
-➥ Schwer: bis zu 1-2 Monaten 	(G2)
+➥ Schwer: bis zu 2 Monaten 	(G2)
 
 ➥ Sehr schwerwiegend: Bis zu einem Jahr 	(G3)
 ```
 ----------------------------------------------------------
 
-## Ungerechte Spielvorteile - Ausnutzen von Bugs etc
+## Ungerechte Spielvorteile - Ausnutzen von Bugs etc (Projektbezogen)
 > **Kategorie H**
 ```
 ➥ Illegales Teaming in Projekten (leicht): bis zu 14 Tagen 	(H1)
 
-➥ Illegales Teaming in Projekten (Schwerwiegend, OBV): bis zu 30 Tagen 	(H2)
+➥ Illegales Teaming in Projekten (Schwerwiegend, OBV): bis zu 60 Tagen 	(H2)
 
-➥ Bugusing* (leicht-Mittel): bis zu 14 Tagen 	(H3)
+➥ Bugusing* (leicht-Mittel): bis zu 30 Tagen 	(H3)
 
 ➥ Bugusing (Schwer): bis zu 30 Tagen 	(H4)
 
@@ -135,9 +135,9 @@ Individuell einsetzbar!
 
 ➥ Beihilfe zur Banumgehung (nachgewiesen): bis zu 30 Tagen 	(I4)
 
-➥ Accountsharing (Eigentlicher Eigentümer des Accounts): bis zu 30 Tagen (I5)
+➥ Accountsharing (Eigentlicher Eigentümer des Accounts): bis zu 60 Tagen (I5)
 
-➥ Accountsharing (Benutzer des weitergegebenen Accounts): bis zu 14 Tagen (I6)
+➥ Accountsharing (Benutzer des weitergegebenen Accounts): bis zu 30 Tagen (I6)
 ```
 ----------------------------------------------------------
 
@@ -146,16 +146,16 @@ Individuell einsetzbar!
 ```
 ➥ Mutwiliges fälschen von Beweisen: 1 Jahr 	(J1)
 
-➥ Wissentlich Falsche Beweise verbreiten: 3-6 Monate Jahr 	(J2)
+➥ Wissentlich falsche Beweise verbreiten: 3-6 Monate  	(J2)
 
 ➥ Falsches Ausgeben von anderen Personen, Identitätsdiebstahl: 6-12 Monate (J3)
 ```
 ----------------------------------------------------------
 
-## Anmelden + nichterscheinen ohne Abmeldung / Absuen von Anmeldechanneln
+## Anmelden + nichterscheinen ohne Abmeldung / Abusen von Anmeldechanneln
 > **Kategorie K**
 ```
-➥ Anmelden und nichterscheinen ohne Abmeldung: bis zu 60 Tagen 	(K1)
+➥ Anmelden und nichterscheinen ohne Abmeldung: bis zu 4 Monaten 	(K1)
 
 ➥ Wiederholungstaten in Bezug auf (K1): Verdoppelung der Bannzeit von vorher	(K2)
 
@@ -166,9 +166,9 @@ Individuell einsetzbar!
 ## Regelverstoß in Events/Varos (der eine Folge hatte das man aus dem Projekt gebannt wurde)
 > **Kategorie L**
 ```
-➥ Leichter Verstoß: bis zu 30 Tage 	(L1)
+➥ Leichter Verstoß: bis zu 60 Tage 	(L1)
 
-➥ Mittleren Verstoß: bis zu 60 Tage 	(L2)
+➥ Mittleren Verstoß: bis zu 90 Tage 	(L2)
 
 ➥ Schweren Verstoß: bis zu 120 Tage 	(L3)
 ```
