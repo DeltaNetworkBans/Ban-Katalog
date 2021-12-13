@@ -10,10 +10,14 @@ Nur noch Sporadisch
 
 ```
 Spieler, die persönliche Differenzen mit einem der Owner, Coowner oder Teamleader haben, dürfen mit dem Grund: (Extras2) für etwaige Zeit gebannt werden.
-Auch hier sind Entbannungsanträge möglich, um eine klärung mit der Person herbeizuführen!
+Auch hier sind Entbannungsanträge möglich, um eine Klärung mit der Person herbeizuführen!
 ```
 
 
 ```
-Placeholder
+Spieler, die durch einen Regelverstoß in der MAIN.md bestraft wurden, aber durch ein persönliches 
+Urteil zu einer längeren Strafe hingezogen werden.
+Nur in Verbindung mit einem anderen Kürzel banbar.
+Auch hier sind Entbannungsanträge möglich, um eine Klärung mit dem Team herbeizuführen!
+(Extras3)
 ```
