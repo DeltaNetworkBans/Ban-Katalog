@@ -5,7 +5,7 @@
 ```
 Spieler die bei Cuuky gebannt sind, werden automatisch bei uns auch gebannt/nicht zugelassen!
 (Ausnahme - Chatverhalten) (Extras1)
-
+Nur noch Sporadisch
 ```
 
 ```
@@ -14,3 +14,6 @@ Auch hier sind Entbannungsanträge möglich, um eine klärung mit der Person her
 ```
 
 
+```
+Placeholder
+```
