@@ -152,7 +152,7 @@ Individuell einsetzbar!
 ```
 ----------------------------------------------------------
 
-## Anmelden + nichterscheinen ohne Abmeldung / Abusen von Anmeldechanneln
+## Anmelden + nichterscheinen ohne Abmeldung / Abusen von Anmeldechanneln / Nich Hochladen von Videos / Videos nicht mehr auffindbar
 > **Kategorie K**
 ```
 ➥ Anmelden und nichterscheinen ohne Abmeldung: bis zu 4 Monaten 	(K1)
@@ -160,6 +160,14 @@ Individuell einsetzbar!
 ➥ Wiederholungstaten in Bezug auf (K1): Verdoppelung der Bannzeit von vorher	(K2)
 
 ➥ Abusen von Anmeldechanneln: Bis zu 30 Tagen 	(K3)
+
+➥ Nicht hochladen von Videos: Bis zu 4 Monaten  (K4)
+
+➥ Videos Nicht mehr auffindbar: Bis zu 1 Monat  (K5)
+
+Informationen zu (K4) / (K5)
+➥ Die Länge wird immer vom Team bestimmt, dies sind nur Richt-Werte
+➥ Die Länge ist außerdem davon abhängig, wie viele bans man schon hatte + wann der regelverstoß bekannt wurde.
 ```
 ----------------------------------------------------------
 
