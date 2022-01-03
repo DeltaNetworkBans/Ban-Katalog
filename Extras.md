@@ -21,3 +21,8 @@ Nur in Verbindung mit einem anderen Kürzel banbar.
 Auch hier sind Entbannungsanträge möglich, um eine Klärung mit dem Team herbeizuführen!
 (Extras3)
 ```
+
+```
+Spieler, die bei CIL (Yes, Personenbezogen) Teammitglied sind und Ihm bei Sachen unterstützen.
+(Extras4)
+```
