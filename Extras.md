@@ -9,7 +9,8 @@ Nur noch Sporadisch
 ```
 
 ```
-Spieler, die persönliche Differenzen mit einem der Owner, Coowner oder Teamleader haben, dürfen mit dem Grund: (Extras2) für etwaige Zeit gebannt werden.
+Spieler, die persönliche Differenzen mit einem der Owner, Coowner oder Teamleader haben, 
+dürfen mit dem Grund: (Extras2) für etwaige Zeit gebannt werden.
 Auch hier sind Entbannungsanträge möglich, um eine Klärung mit der Person herbeizuführen!
 ```
 
