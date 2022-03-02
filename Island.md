@@ -69,6 +69,18 @@ Userbezogen, nicht leichtfertig einsetzbar!
 ```
 ----------------------------------------------------------
 
+## Lagmaschinen bauen / benutzen [ Inkl. ServerCrashing]
+
+> **Kategorie D**
+```
+➥ Lagmaschine bauen: 30 Tage (D1)
+
+➥ Lagmaschine bauen (erfolgreich den Server zum laggen gebracht): bis zu 4 Monate)  (D2)
+
+➥ Schwerwiegende Laggs verursacht / Servercrashing (Absichtlich): Bis zu Lifetime  (D3)
+```
+----------------------------------------------------------
+
 ## Vorlage
 
 > **Kategorie D**
