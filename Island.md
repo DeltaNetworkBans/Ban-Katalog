@@ -63,7 +63,7 @@ Userbezogen, nicht leichtfertig einsetzbar!
 ```
 ➥ Leicht: zwischen 30 und 60 Tagen (B1)
 
-➥ Schwer: bis zu 12 Monate (B2)
+➥ Schwer: bis zu 6 Monate (B2)
 
 ➥ Sehr schwerwiegend: Bis zu Lifetime (B3)
 ```
