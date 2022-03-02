@@ -83,12 +83,24 @@ Userbezogen, nicht leichtfertig einsetzbar!
 
 ## Vorlage
 
-> **Kategorie D**
+> **Kategorie E**
 ```
-➥ Leicht: (B1)
+➥ Leicht: (E1)
 
-➥ Schwer:  (B2)
+➥ Schwer:  (E2)
 
-➥ Sehr schwerwiegend:  (B3)
+➥ Sehr schwerwiegend:  (E3)
+```
+----------------------------------------------------------
+
+## Vorlage
+
+> **Kategorie F**
+```
+➥ Leicht: (F1)
+
+➥ Schwer:  (F2)
+
+➥ Sehr schwerwiegend:  (F3)
 ```
 ----------------------------------------------------------
