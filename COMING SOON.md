@@ -1,5 +1,5 @@
-# Dönerbuden-Events Bans
-Ban Katalog von Dönerbuden-Events
+# COMING SOON Bans
+Ban Katalog von COMING SOON
 
 ## Allgemeine Regeln
 
@@ -35,50 +35,50 @@ Bans sind nicht anfechtbar! - Es sei denn, man kann gegenargumentieren!
 Folgende Gründe / Längen gibt es:
 
 ## Schlechtreden von Projekten/vom Netzwerk
-> **Kategorie Döner A**
+> **Kategorie COMING SOON A**
 ```
-➥ Leicht: 20 Tage (Döner A1)
+➥ Leicht: 20 Tage (COMING SOON A1)
 
-➥ Schwer: bis zu 2 Monaten (Döner A2)
+➥ Schwer: bis zu 2 Monaten (COMING SOON A2)
 
-➥ Sehr schwerwiegend: Bis zu Lifetime (Döner A3)
+➥ Sehr schwerwiegend: Bis zu Lifetime (COMING SOON A3)
 ```
 ----------------------------------------------------------
 
 ## Hacking
-> **Kategorie Döner B**
+> **Kategorie COMING SOON B**
 ```
-➥ XRAY: 30 Tage (Döner B1)
+➥ XRAY: 30 Tage (COMING SOON B1)
 
-➥ COMBAT HACKS: bis zu 3 Monaten (Döner B2)
+➥ COMBAT HACKS: bis zu 3 Monaten (COMING SOON B2)
 
-➥ DDOS etc.: Bis zu Lifetime (Döner B3)
+➥ DDOS etc.: Bis zu Lifetime (COMING SOON B3)
 ```
 ----------------------------------------------------------
 
 ## Bugusing
-> **Kategorie Döner C**
+> **Kategorie COMING SOON C**
 ```
-➥ Leicht: 14 Tage (Döner C1)
+➥ Leicht: 14 Tage (COMING SOON C1)
 
-➥ Schwer: bis zu 2 Monaten (Döner C2)
+➥ Schwer: bis zu 2 Monaten (COMING SOON C2)
 
-➥ Admin / OP Abuse: Bis zu 6 Monaten (Döner C3)
+➥ Admin / OP Abuse: Bis zu 6 Monaten (COMING SOON C3)
 ```
 ----------------------------------------------------------
 
 ## TRAPS
-> **Kategorie Döner D**
+> **Kategorie COMING SOON D**
 ```
-➥ Trappen (Sämtliche Traps inkl. Obitrap): 7 Tage (Döner D1)
+➥ Trappen (Sämtliche Traps inkl. Obitrap): 7 Tage (COMING SOON D1)
 
 ```
 ----------------------------------------------------------
 
 ## Trucing
-> **Kategorie Döner D**
+> **Kategorie COMING SOON D**
 ```
-➥ Trucing obv.: 14 Tage (Döner D1)
+➥ Trucing obv.: 14 Tage (COMING SOON D1)
 
 ```
 ----------------------------------------------------------
