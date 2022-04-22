@@ -1,5 +1,5 @@
-# COMING SOON Bans
-Ban Katalog von COMING SOON
+# Bademeister Titan Bans
+Ban Katalog von Bademeister Titan
 
 ## Allgemeine Regeln
 
@@ -13,7 +13,7 @@ Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldi
 
 In besonderen Fällen werden die Banns komplett aufgehoben.
 
-Der normale Bannkatalog gilt für alles, was im Projekt Island und umzu passiert.
+Der normale Bannkatalog gilt für alles, was bei Bademeister Titan und umzu passiert.
 
 Sollten Lücken entstehen, greift der normale Katalog!
 
@@ -35,50 +35,60 @@ Bans sind nicht anfechtbar! - Es sei denn, man kann gegenargumentieren!
 Folgende Gründe / Längen gibt es:
 
 ## Schlechtreden von Projekten/vom Netzwerk
-> **Kategorie COMING SOON A**
+> **Kategorie Bademeister A**
 ```
-➥ Leicht: 20 Tage (COMING SOON A1)
+➥ Leicht: 20 Tage (Bademeister A1)
 
-➥ Schwer: bis zu 2 Monaten (COMING SOON A2)
+➥ Schwer: bis zu 2 Monaten (Bademeister A2)
 
-➥ Sehr schwerwiegend: Bis zu Lifetime (COMING SOON A3)
+➥ Sehr schwerwiegend: Bis zu Lifetime (Bademeister A3)
 ```
 ----------------------------------------------------------
 
 ## Hacking
-> **Kategorie COMING SOON B**
+> **Kategorie Bademeister B**
 ```
-➥ XRAY: 30 Tage (COMING SOON B1)
+➥ XRAY: 30 Tage (Bademeister B1)
 
-➥ COMBAT HACKS: bis zu 3 Monaten (COMING SOON B2)
+➥ COMBAT HACKS: bis zu 2 Monaten (Bademeister B2)
 
-➥ DDOS etc.: Bis zu Lifetime (COMING SOON B3)
+➥ DDOS etc.: Bis zu Lifetime (Bademeister B3)
 ```
 ----------------------------------------------------------
 
 ## Bugusing
-> **Kategorie COMING SOON C**
+> **Kategorie Bademeister C**
 ```
-➥ Leicht: 14 Tage (COMING SOON C1)
+➥ Leicht: 7 Tage (Bademeister C1)
 
-➥ Schwer: bis zu 2 Monaten (COMING SOON C2)
+➥ Schwer: bis zu 1 Monat (Bademeister C2)
 
-➥ Admin / OP Abuse: Bis zu 6 Monaten (COMING SOON C3)
-```
-----------------------------------------------------------
-
-## TRAPS
-> **Kategorie COMING SOON D**
-```
-➥ Trappen (Sämtliche Traps inkl. Obitrap): 7 Tage (COMING SOON D1)
-
+➥ Admin / OP Abuse: Bis zu 6 Monaten (Bademeister C3)
 ```
 ----------------------------------------------------------
 
 ## Trucing
-> **Kategorie COMING SOON D**
+> **Kategorie Bademeister D**
 ```
-➥ Trucing obv.: 14 Tage (COMING SOON D1)
+➥ Trucing obv.: 7 Tage (Bademeister D1)
 
 ```
 ----------------------------------------------------------
+
+## Beleidigung / Rassismus
+> **Kategorie Bademeister E**
+```
+➥ Schwere Beleidigung: 3 Tage (Bademeister E1)
+
+➥ Rassismus: 7 Tage (Bademeister E2)
+
+```
+----------------------------------------------------------
+
+## CombatLog
+> **Kategorie Bademeister F**
+```
+➥ Combatlogging: 2 Tage (Bademeister F1)
+
+```
+----------------------------------------------------------****
