@@ -34,7 +34,7 @@ Spieler, die bei Ihren Netzwerken Admin/Op Abusen. Strafe wird je nach Fall gewe
 
 
 ```
-Verwarnungen(Stufen): 
+Verwarnungen(Stufen):
 
 Varwarnung 1: 15min Ban
 Verwarnung 2: 24h Ban
