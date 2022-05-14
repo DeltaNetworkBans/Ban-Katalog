@@ -110,3 +110,15 @@ Folgende Gründe / Längen gibt es:
 
 ```
 ----------------------------------------------------------
+
+## Bannumgehung 
+> **Kategorie Klaro H**
+```
+➥ 1. Bannumgehung Verdoppelung der Bannzeit (Klaro H1)
+
+➥ 2. Bannumgehung Bannzeit wird verdreifacht  (Klaro H2)
+
+➥ 3. Bannumgehung + 3 Jahre Ban  (Klaro H3)
+
+```
+----------------------------------------------------------
