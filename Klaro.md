@@ -69,7 +69,7 @@ Folgende Gründe / Längen gibt es:
 
 ➥ Provokantes Verhalten gegenüber Teammitgliedern: 2 Monate (Klaro C3)
 
-➥ Rassismus: 2 Monate (Klaro C4)
+➥ Rassismus: 3 Monate (Klaro C4)
 ```
 ----------------------------------------------------------
 
