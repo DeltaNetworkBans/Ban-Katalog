@@ -217,21 +217,5 @@ Informationen zu (K4) / (K5)
 
 # Ban-Gründe / Report-Gründe / Ban-Längen
 ----------------------------------------------------------
-## Basewars
-> **Kategorie BW**
-```
-➥ Griefen von anderen Basen: bis zu 3 Tage 	(BW1)
 
-➥ Towern: Deathban/bis zu 3 Tagen (Extrem) 	(BW2)
 
-➥ Combatloggen: Deathban/bis zu 3 Tagen  	(BW3)
-```
-----------------------------------------------------------
-----------------------------------------------------------
-----------------------------------------------------------
-
-# OnedayVaro Kategorien
-
-# Ban-Gründe / Report-Gründe / Ban-Längen
-----------------------------------------------------------
-Coming Soon
