@@ -99,9 +99,9 @@ Individuell einsetzbar!
 ## Schlechtes Verhalten, Unangebrachte Reaktionen
 > **Kategorie G**
 ```
-➥ Leicht: bis zu 30 Tagen 	(G1)
+➥ Leicht: bis zu 14 Tagen 	(G1)
 
-➥ Schwer: bis zu 2 Monaten 	(G2)
+➥ Schwer: bis zu 1 Monaten 	(G2)
 
 ➥ Sehr schwerwiegend: Bis zu einem Jahr 	(G3)
 ```
