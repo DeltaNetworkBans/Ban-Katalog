@@ -182,38 +182,6 @@ Informationen zu (K4) / (K5)
 ----------------------------------------------------------
 ----------------------------------------------------------
 
-# Events Kategorien
-
-# Ban-Gründe / Report-Gründe / Ban-Längen
-----------------------------------------------------------
-## Events
-> **Kategorie Events**
-```
-➥ Illegales Teaming (leicht): bis zu 3 Tagen 	(Events1)
-
-➥ Illegales Teaming (Schwerwiegend, OBV): bis zu 14 Tagen 	(Events2)
-
-➥ Bugusing (Leicht) : Deathban/bis zu 3 Tage 	(Events3)
-
-➥ Bugusing mit Schwerwiegenden Fehlern : bis zu 14/30 Tagen (je nach Fall) 	(Events4)
-
-➥ 5x Gemutet worden in Events : 7 Tage (Events5)
-
-➥ Wiederholte Bans : Verdoppelung der Strafe (Events6)
-
-➥ Bei einem Freeze nicht auf dem Discord erschienen: bis zu 60 Tagen (Je nach Hacking Verdacht) 	(Events7)
-
-➥ ScreenShare verweigert: 60 Tage 	(Events8)
-```
-----------------------------------------------------------
-----------------------------------------------------------
-----------------------------------------------------------
-
-# Basewars Kategorien
-
-# Ban-Gründe / Report-Gründe / Ban-Längen
-----------------------------------------------------------
-
 # Unban Infos
 
 Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
