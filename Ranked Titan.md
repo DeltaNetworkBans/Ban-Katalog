@@ -29,9 +29,9 @@ Folgende Gründe / Längen gibt es:
 ## Schlechtreden von Projekten/vom Netzwerk
 > **Kategorie Ranked Titan A**
 ```
-➥ Leicht: 30 Tage (Ranked Titan A1)
+➥ Leicht: 21 Tage (Ranked Titan A1)
 
-➥ Schwer: bis zu 4 Monaten (Ranked Titan A2)
+➥ Schwer: bis zu 2 Monaten (Ranked Titan A2)
 
 ➥ Sehr schwerwiegend: Bis zu Lifetime (Ranked Titan A3)
 ```
@@ -75,7 +75,7 @@ Userbezogen, nicht leichtfertig einsetzbar!
 ## Bugabusen
 > **Kategorie Ranked Titan E**
 ```
-➥ Leicht: bis zu 30 Tagen (Ranked Titan E1)
+➥ Leicht: bis zu 28 Tagen (Ranked Titan E1)
 
 ➥ Schwer: bis zu 60 Tage (Ranked Titan E2)
 
@@ -88,7 +88,7 @@ Individuell einsetzbar!
 
 > **Kategorie Ranked Titan F**
 ```
-➥ Leicht: bis zu 30 Tagen (Ranked Titan F1)
+➥ Leicht: bis zu 21 Tagen (Ranked Titan F1)
 
 ➥ Schwer: bis zu 90 Tagen (Ranked Titan F2)
 
