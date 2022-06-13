@@ -146,6 +146,17 @@ Individuell einsetzbar!
 ```
 ----------------------------------------------------------
 
+## Punktabzüge
+> **Kategorie Ranked Titan Punkte**
+```
+➥ 0-14 Bantage: 10 Punkte Abzug 	(Ranked Titan Punkte1)
+
+➥ 14-29 Bantage: 20 Punkte Abzug oder Halbieren der Punkte (Das was mehr Abzug mit sich bringt) 	(Ranked Titan Punkte2 oder Ranked Titan Punkte2.1)
+
+➥ Ab 30 Bantagen: Punkte RESET (=0) 	(Ranked Titan Punkte3)
+```
+----------------------------------------------------------
+
 # Unban Infos
 
 Mindeststrafen können um maximal 50% vermindert werden, wenn sich der Beschuldigte nach der Tat im Kontext dieser positiv verhalten hat.
