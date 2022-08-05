@@ -1,1 +1,178 @@
+# Ban-Katalog
+Ban Katalog von Eye of Delta, gültig für alle Partner-Server
 
+# Unban-Regelungen
+
+## Discord für Entbannungsanträge
+> https://discord.gg/Zs9VNk2kJF
+
+## Unban-Regelungen / Bewährung
+> https://github.com/DeltaNetworkBans/Ban-Katalog/blob/main/1.1)%20Unban_Bew%C3%A4hrung%20Regeln.md#unban-infos 
+
+# Ban-Gründe / Report-Gründe / Ban-Längen
+----------------------------------------------------------
+
+Nachfolgende Bans werden von den Teammitgliedern der Eye of Delta gegeben und können individuell angepasst werden.
+
+Alle genannten Zeiten können aufgrund von Folge-Taten oder anderen nicht vorhersehbaren Reaktionen nach Belieben verändern/anders gehandhabt werden!
+
+Teammitglieder haben Weisungsrecht, Nutzer haben sich daran zu halten!
+
+Bans sind nicht anfechtbar!
+
+----------------------------------------------------------
+
+Folgende Gründe / Längen gibt es:
+
+## Schlechtreden von Projekten/vom Netzwerk
+> **Kategorie A**
+```
+➥ Leicht: 30 Tage (A1)
+
+➥ Schwer: bis zu 4 Monaten (A2)
+
+➥ Sehr schwerwiegend: Bis zu Lifetime (A3)
+```
+----------------------------------------------------------
+
+## Toxisches Verhalten zu anderen Usern/Teammitgliedern
+Userbezogen, nicht leichtfertig einsetzbar!
+
+> **Kategorie B**
+```
+➥ Leicht: 7-14 Tage (B1)
+
+➥ Schwer: bis zu 3 Monaten (B2)
+
+➥ Sehr schwerwiegend: Bis zu Lifetime (B3)
+```
+----------------------------------------------------------
+
+## Rassismus
+> **Kategorie C**
+```
+➥ Leicht: 60 Tage (C1)
+
+➥ Schwer: bis zu 6 Monaten (C2)
+
+➥ Sehr schwerwiegend: Bis zu Lifetime (C3)
+```
+----------------------------------------------------------
+
+## Hacking
+> **Kategorie D**
+```
+➥ Leicht (Autoclicker/XRAY etc): 30-60 Tage (D1)
+
+➥ Schwer: bis zu 6 Monaten (D2)
+
+➥ Sehr schwerwiegend: Bis zu Lifetime (D3)
+```
+----------------------------------------------------------
+
+## Bugabusen
+> **Kategorie E**
+```
+➥ Leicht: bis zu 30 Tagen (E1)
+
+➥ Schwer: bis zu 60 Tage (E2)
+
+➥ Sehr schwerwiegend: Bis zu Lifetime (E3)
+```
+----------------------------------------------------------
+
+## Nerven von Teammitgliedern, Rauben von Zeit
+Individuell einsetzbar!
+
+> **Kategorie F**
+```
+➥ Leicht: bis zu 14 Tagen (F1)
+
+➥ Schwer: bis zu 90 Tagen (F2)
+
+➥ Sehr schwerwiegend: Bis zu 6 Monaten (F3)
+```
+----------------------------------------------------------
+
+## Schlechtes Verhalten, Unangebrachte Reaktionen
+> **Kategorie G**
+```
+➥ Leicht: bis zu 7 Tagen 	(G1)
+
+➥ Schwer: bis zu 2 Monaten 	(G2)
+
+➥ Sehr schwerwiegend: Bis zu einem Jahr 	(G3)
+```
+----------------------------------------------------------
+
+## Ungerechte Spielvorteile - Ausnutzen von Bugs etc (Projekt/Event -bezogen)
+> **Kategorie H**
+```
+➥ Illegales Teaming in Projekten (leicht, nicht obv.): bis zu 14 Tagen 	(H1)
+
+➥ Illegales Teaming in Projekten (Schwerwiegend, OBV): bis zu 60 Tagen 	(H2)
+
+➥ Bugusing* (leicht-Mittel): bis zu 30 Tagen 	(H3)
+
+➥ Bugusing (Schwer): bis zu 30 Tagen 	(H4)
+
+➥ Combatlogging (einfach): bis zu 21 tagen (H5)
+
+➥ Combatlogging (mehrfach): bis zu 60 tagen (H6)
+
+*Hierzu zählen auch Regellücken / Serverlücken!
+```
+----------------------------------------------------------
+
+## Banumgehung / Accountsharing
+> **Kategorie I**
+```
+➥ Banumgehung (1.): Verdoppelung der Strafe 	(I1)
+
+➥ Banumgehung (2.): Verdoppelung der Strafe (erneut) 	(I2)
+
+➥ Banumgehung (3. oder mehr): Permanenter Ban 	(I3)
+
+➥ Beihilfe zur Banumgehung (nachgewiesen): bis zu 30 Tagen 	(I4)
+
+➥ Accountsharing (Eigentlicher Eigentümer des Accounts): bis zu 60 Tagen (I5)
+
+➥ Accountsharing (Benutzer des weitergegebenen Accounts): bis zu 30 Tagen (I6)
+```
+----------------------------------------------------------
+
+## Fälschungen
+> **Kategorie J**
+```
+➥ Mutwiliges fälschen von Beweisen: 1 Jahr 	(J1)
+
+➥ Wissentlich falsche Beweise verbreiten: 3-6 Monate  	(J2)
+
+➥ Falsches Ausgeben von anderen Personen, Identitätsdiebstahl: 6-12 Monate (J3)
+```
+----------------------------------------------------------
+
+## Anmelden + nichterscheinen ohne Abmeldung / Abusen von Anmeldechanneln / Nich Hochladen von Videos / Videos nicht mehr auffindbar
+> **Kategorie K**
+```
+➥ Anmelden und nichterscheinen ohne Abmeldung: bis zu 5 Monaten 	(K1)
+
+➥ Wiederholungstaten in Bezug auf (K1): Verdoppelung der Bannzeit von vorher	(K2)
+
+➥ Abusen von Anmeldechanneln: Bis zu 30 Tagen 	(K3)
+
+➥ Nicht hochladen von Videos: Bis zu 4 Monaten  (K4)
+
+➥ Videos Nicht mehr auffindbar: Bis zu 1 Monat  (K5)
+
+Informationen zu (K4) / (K5)
+➥ Die Länge wird immer vom Team bestimmt, dies sind nur Richt-Werte
+➥ Die Länge ist außerdem davon abhängig, wie viele bans man schon hatte + wann der regelverstoß bekannt wurde.
+```
+----------------------------------------------------------
+
+
+```
+----------------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
